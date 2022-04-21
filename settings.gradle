@@ -1,0 +1,2 @@
+rootProject.name = "Deom0_kotlin"
+include ':app'
